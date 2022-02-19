@@ -1,2 +1,2 @@
 # mynodejsapplication
-A AnshulAWS Code Pipeline Demo NodeJS Application
+A JaladAWS Code Pipeline Demo NodeJS Application
